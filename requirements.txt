@@ -1,0 +1,16 @@
+streamlit
+pandas
+openai
+python-dotenv
+gtts
+pyttsx3
+docx2txt
+pdfplumber
+python-docx
+matplotlib
+fpdf==1.7.2
+PyPDF2
+groq
+yagmail
+uuid
+plotly

@@ -1,0 +1,38 @@
+cd "C:\Users\Win10 User\Desktop\resume-feedback-bot"
+git init
+git remote add origin https://github.com/ShatakshiDudala/Resume_feedback_bot.git
+git add .
+git commit -m "Initial commit with full working resume bot"
+git branch -M main
+git push -u origin main
+
+
+
+
+✅ Separate Login/Signup screen
+✅ New Dashboard after login with full features:
+
+📤 Resume Upload (.pdf/.docx)
+
+🎯 Target Role Input
+
+🤖 GPT Resume Feedback (Groq)
+
+📊 Score with progress bar
+
+🔄 Resume Rewriting
+
+🔈 Audio Tips via gTTS
+
+📧 Email Feedback (SMTP placeholder)
+
+📂 Feedback History per user
+
+🧹 Clean up audio & feedback
+
+🔐 Change Password & Forgot Password (Email/OTP)
+
+👑 Admin Dashboard with charts
+✅ No errors (no indentation, NameError, SyntaxError, or deprecated warnings)
+✅ Colorful and attractive UI
+✅ Smooth page transitions and state handling
